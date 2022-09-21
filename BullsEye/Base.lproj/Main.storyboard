@@ -104,6 +104,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="roundNumberLabel" destination="dpc-dy-vB3" id="7cZ-ds-aG6"/>
+                        <outlet property="scoreLabel" destination="3HU-dP-12i" id="lFq-ql-7Hf"/>
                         <outlet property="slider" destination="YIh-Yr-fee" id="I29-Be-K8a"/>
                         <outlet property="targetLabel" destination="dOq-fi-LLy" id="Gsg-bQ-pcL"/>
                     </connections>
