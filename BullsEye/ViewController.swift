@@ -50,7 +50,6 @@ class ViewController: UIViewController {
         updateLabes()
     }
     
-    //comment
     func updateLabes() {
         targetLabel.text = String(targetValue)
     }
